@@ -1,2 +1,2 @@
 # towers_of_hanoi
-solve problem eith towers of hanoi
+solve the problem with the towers of hanoi
